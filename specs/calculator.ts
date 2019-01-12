@@ -20,7 +20,9 @@ describe('Calculator Test', () => {
         element(by.id('gobutton')).click();
    })   
 
-   
+   it('Testing landing page',() =>{
+
+   })
 
 
 })

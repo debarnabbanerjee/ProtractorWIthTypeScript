@@ -16,12 +16,9 @@ var landingPage = /** @class */ (function (_super) {
     __extends(landingPage, _super);
     function landingPage() {
         var _this = _super !== null && _super.apply(this, arguments) || this;
-        _this.signInBtn = protractor_1.element(protractor_1.by.id('test'));
+        _this.createCourses = protractor_1.element(protractor_1.by.linkText('Create courses'));
         return _this;
     }
-    landingPage.prototype.checkElementsPresent = function () {
-        this.signInBtn.click();
-    };
     return landingPage;
 }(pagebase_1.PageBase));
 exports.landingPage = landingPage;

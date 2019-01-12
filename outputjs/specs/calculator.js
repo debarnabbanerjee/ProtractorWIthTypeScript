@@ -15,4 +15,6 @@ describe('Calculator Test', function () {
         protractor_1.element(protractor_1.by.model('second')).sendKeys(13);
         protractor_1.element(protractor_1.by.id('gobutton')).click();
     });
+    it('Testing landing page', function () {
+    });
 });

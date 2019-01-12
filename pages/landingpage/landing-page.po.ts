@@ -3,9 +3,7 @@ import {landingPageData} from "../../test-data/landingPageData";
 import {PageBase} from "../basepage/pagebase";
 
 export class landingPage extends  PageBase {
-    signInBtn = element(by.id('test'))
+    createCourses = element(by.linkText('Create courses'))
 
-    checkElementsPresent(){
-        this.signInBtn.click();
-    }
+    
 }
