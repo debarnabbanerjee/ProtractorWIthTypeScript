@@ -18,6 +18,7 @@ var landingPage = /** @class */ (function (_super) {
         var _this = _super !== null && _super.apply(this, arguments) || this;
         _this.allCourses = protractor_1.element(protractor_1.by.linkText('All Courses'));
         _this.createCourses = protractor_1.element(protractor_1.by.linkText('Create courses'));
+        _this.search = protractor_1.element(protractor_1.by.buttonText('Search'));
         return _this;
     }
     return landingPage;

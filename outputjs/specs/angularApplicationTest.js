@@ -9,8 +9,12 @@ describe('Testing the angular application', function () {
         protractor_1.browser.sleep(2000);
         protractor_1.browser.waitForAngular();
     });
-    it('Testing the angular application UI', function () {
+    it('Validate Page Title', function () {
+        // expect(browser.getTitle()).toEqual("ExecuteAutomation Courses");
+    });
+    it('Testing the angular application UI Elements', function () {
         expect(lp.allCourses.isPresent()).toBeTruthy();
         expect(lp.createCourses.isPresent()).toBeTruthy();
+        expect(lp.search.isPresent()).toBeTruthy();
     });
 });
