@@ -17,14 +17,19 @@ export class landingPage extends  PageBase {
     departure = element(by.xpath("//select[@name='fromPort']"));
    //  alldepatrurelocations = element(by.xpath("//select[@name='fromPort']/*")); 
 
-    getAllUsageCategoriesDropListElements() {
+     getAllUsageCategoriesDropListElements() {
 
-        // I need to extract all the droplist values from //select[@name='fromPort'] and then put them into an array and equate that array
-        // with another one in jasmine test case present in test.ts file. 
+    //     // I need to extract all the droplist values from //select[@name='fromPort'] and then put them into an array and equate that array
+    //     // with another one in jasmine test case present in test.ts file. 
 
-        
-
+    
       
-    }   
+     } 
+    
+    
+
+
+
+
 
 }
