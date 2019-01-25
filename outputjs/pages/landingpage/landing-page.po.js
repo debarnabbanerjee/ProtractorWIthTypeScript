@@ -16,11 +16,21 @@ var landingPage = /** @class */ (function (_super) {
     __extends(landingPage, _super);
     function landingPage() {
         var _this = _super !== null && _super.apply(this, arguments) || this;
-        _this.allCourses = protractor_1.element(protractor_1.by.linkText('All Courses'));
-        _this.createCourses = protractor_1.element(protractor_1.by.linkText('Create courses'));
-        _this.search = protractor_1.element(protractor_1.by.buttonText('Search'));
+        _this.departure = protractor_1.element(protractor_1.by.xpath("//select[@name='fromPort']"));
         return _this;
     }
+    landingPage.prototype.loginToApplication = function () {
+        protractor_1.browser.sleep(2000);
+        protractor_1.element(protractor_1.by.xpath("//input[@name='userName']")).sendKeys("debarnab");
+        protractor_1.element(protractor_1.by.xpath("//input[@name='password']")).sendKeys("debarnab");
+        protractor_1.element(protractor_1.by.xpath("//input[@name='login']")).click();
+        protractor_1.browser.sleep(2000);
+    };
+    //  alldepatrurelocations = element(by.xpath("//select[@name='fromPort']/*")); 
+    landingPage.prototype.getAllUsageCategoriesDropListElements = function () {
+        // I need to extract all the droplist values from //select[@name='fromPort'] and then put them into an array and equate that array
+        // with another one in jasmine test case present in test.ts file. 
+    };
     return landingPage;
 }(pagebase_1.PageBase));
 exports.landingPage = landingPage;

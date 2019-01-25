@@ -337,6 +337,41 @@ app.controller('ScreenshotReportController', function ($scope, $http) {
         "screenShotFile": "000600bf-0032-00cf-0030-0017009d004d.png",
         "timestamp": 1547389421167,
         "duration": 357
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": false,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "6b2ff4b26a623c48eddd70b961152f70",
+        "instanceId": 6620,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": [
+            "Failed: Angular could not be found on the page http://newtours.demoaut.com/mercurysignon.php. If this is not an Angular application, you may need to turn off waiting for Angular.\n                          Please see \n                          https://github.com/angular/protractor/blob/master/docs/timeouts.md#waiting-for-angular-on-page-load"
+        ],
+        "trace": [
+            "Error: Angular could not be found on the page http://newtours.demoaut.com/mercurysignon.php. If this is not an Angular application, you may need to turn off waiting for Angular.\n                          Please see \n                          https://github.com/angular/protractor/blob/master/docs/timeouts.md#waiting-for-angular-on-page-load\n    at executeAsyncScript_.then (F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\protractor\\built\\browser.js:720:27)\n    at ManagedPromise.invokeCallback_ (F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27)\n    at F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)\nFrom: Task: Run it(\"Exatrct all values from an array\") in control flow\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\jasminewd2\\index.js:94:19)\n    at attempt (F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n    at QueueRunner.run (F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n    at runNext (F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n    at F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n    at F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n    at F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\jasminewd2\\index.js:64:48\n    at ControlFlow.emit (F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n    at ControlFlow.shutdown_ (F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n    at shutdownTask_.MicroTask (F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (F:\\Automation\\ProtractorTypeScriptNew\\outputjs\\specs\\test.js:6:5)\n    at addSpecsToSuite (F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n    at Env.describe (F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n    at describe (F:\\Automation\\ProtractorTypeScriptNew\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n    at Object.<anonymous> (F:\\Automation\\ProtractorTypeScriptNew\\outputjs\\specs\\test.js:5:1)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)"
+        ],
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548438499520,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548438499688,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00490016-0072-007f-00e4-000c002e006e.png",
+        "timestamp": 1548438496224,
+        "duration": 13618
     }
 ];
 
