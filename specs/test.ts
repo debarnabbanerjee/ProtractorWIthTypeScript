@@ -7,6 +7,7 @@ describe("Testing ArrayFUnction",() => {
 
         let landingpage = new landingPage();
         console.log("Testing Again.....");
+        browser.waitForAngularEnabled(false);
         browser.get("http://newtours.demoaut.com/mercurysignon.php");
         browser.sleep(2000);
     

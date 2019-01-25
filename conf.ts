@@ -4,11 +4,11 @@ var HtmlReporter = require('protractor-beautiful-reporter');
 export let config: Config = {
     framework: "jasmine",
 
-    // capabilities :{
-    //     browserName: 'chrome'
-    // },
+    capabilities :{
+        browserName: 'chrome'
+    },
 
-    capabilities: { browserName: 'chrome', chromeOptions: { args: [ "--headless", "--disable-gpu", "--window-size=800,600"] } },
+    // capabilities: { browserName: 'chrome', chromeOptions: { args: [ "--headless", "--disable-gpu", "--window-size=800,600"] } },
 
     specs: ['./specs/*.js'],
 
