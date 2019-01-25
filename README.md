@@ -4,4 +4,6 @@ git clone
 
 npm install
 
-npm test
+webdriver-manager start (in a seperate window)
+
+npm test (in another new window)
