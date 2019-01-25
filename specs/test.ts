@@ -11,8 +11,14 @@ describe("Testing ArrayFUnction", () => {
         browser.get("http://newtours.demoaut.com/mercurysignon.php");
         browser.sleep(2000);
     
-        landingpage.loginToApplication();
-        landingpage.departure.click();
+        let promise = landingpage.loginToApplication();
+
+        promise.then((result) => {
+            console.log(result);
+        });
+
+        // landingpage.departure.click();
+        // landingPage.getAllUsageCategoriesDropListElements();
         browser.sleep(2000);
     })
 

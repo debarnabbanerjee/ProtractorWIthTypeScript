@@ -525,6 +525,870 @@ app.controller('ScreenshotReportController', function ($scope, $http) {
         "screenShotFile": "0003003c-00a5-0024-00cd-00ab00bf0026.png",
         "timestamp": 1548439811814,
         "duration": 11602
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "94ce25e375c49c697235306b294e904f",
+        "instanceId": 8992,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "http://newtours.demoaut.com/mercurysignon.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.",
+                "timestamp": 1548442570150,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442570428,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442570436,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442574448,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442576551,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "000a00c8-00ad-0046-00d2-005c005f0042.png",
+        "timestamp": 1548442580586,
+        "duration": 2
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "98e28b80950f8d1815d1882de0879380",
+        "instanceId": 14376,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "http://newtours.demoaut.com/mercurysignon.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.",
+                "timestamp": 1548442610824,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442611107,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442611116,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442615127,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442617228,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "006e0055-008a-005c-0099-00b5000b00db.png",
+        "timestamp": 1548442621276,
+        "duration": 2
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "771988d68e33726df2abaff7dbe3b7ff",
+        "instanceId": 9380,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "http://newtours.demoaut.com/mercurysignon.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.",
+                "timestamp": 1548442710875,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442711137,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442711143,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442715156,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442717244,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00090075-00eb-0034-00df-00ff00fd00ae.png",
+        "timestamp": 1548442721304,
+        "duration": 3
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "98e24edb43b590d58fdad826f66a7a6e",
+        "instanceId": 15068,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "http://newtours.demoaut.com/mercurysignon.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.",
+                "timestamp": 1548442814656,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442814871,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442814877,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442818889,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442821169,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00f1005c-004b-009b-00b4-004400aa00f8.png",
+        "timestamp": 1548442825203,
+        "duration": 2
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "3f86b2b5778642dadaeda7eda9a8b6b6",
+        "instanceId": 7980,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "http://newtours.demoaut.com/mercurysignon.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.",
+                "timestamp": 1548442912778,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442913051,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442913062,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442917103,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442920233,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "007200db-0002-00fd-0097-001c00a300db.png",
+        "timestamp": 1548442924266,
+        "duration": 3
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "0b63467da123ee05dd96c659df52c049",
+        "instanceId": 7116,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "http://newtours.demoaut.com/mercurysignon.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.",
+                "timestamp": 1548442957109,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442957404,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442957410,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442961424,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548442963524,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00490080-00e1-0097-0043-009e006e008e.png",
+        "timestamp": 1548442967627,
+        "duration": 2
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "0124cc0779cc219469389d5fb5a09073",
+        "instanceId": 4576,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "http://newtours.demoaut.com/mercurysignon.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.",
+                "timestamp": 1548443177968,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443178230,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443178238,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443182250,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443184340,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "003e00e7-00d9-00ef-006a-009c0020000f.png",
+        "timestamp": 1548443194389,
+        "duration": 2
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "4cc993976b2cfae4b1ce71c7ce77de3f",
+        "instanceId": 15516,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "http://newtours.demoaut.com/mercurysignon.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.",
+                "timestamp": 1548443362254,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443362466,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443362479,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443366500,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443368792,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00560037-00c7-00a0-009b-005d00be00e1.png",
+        "timestamp": 1548443372897,
+        "duration": 9
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "855a312339913702cedbccf0d84c5632",
+        "instanceId": 13160,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "http://newtours.demoaut.com/mercurysignon.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.",
+                "timestamp": 1548443457940,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443458159,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443458173,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443462198,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443464495,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "007200b8-003e-003d-0025-005d005700c9.png",
+        "timestamp": 1548443468955,
+        "duration": 9
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "1fd703b4ec3ff8ebb1323ef0ff002ad9",
+        "instanceId": 10108,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "http://newtours.demoaut.com/mercurysignon.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.",
+                "timestamp": 1548443560746,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443560892,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443560911,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443564935,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443567208,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "0033006d-008a-00dc-003f-002a00970056.png",
+        "timestamp": 1548443571649,
+        "duration": 5
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "cad7ee1942c838660a0d4833e5e4beee",
+        "instanceId": 16356,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "http://newtours.demoaut.com/mercurysignon.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.",
+                "timestamp": 1548443634575,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443634761,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443634935,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443638968,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548443641263,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "0019002b-001a-001e-0085-005800f70015.png",
+        "timestamp": 1548443645711,
+        "duration": 5
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "ec2dbb99924583dfcb1c2296406bb9a4",
+        "instanceId": 14888,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "http://newtours.demoaut.com/mercurysignon.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.",
+                "timestamp": 1548445470119,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548445470379,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548445470390,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548445474403,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548445477302,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00360083-0069-00aa-0084-008800780074.png",
+        "timestamp": 1548445481544,
+        "duration": 2
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "e8992f754c30e927518c9be5aaadd658",
+        "instanceId": 14592,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "http://newtours.demoaut.com/mercurysignon.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.",
+                "timestamp": 1548445618086,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548445618351,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548445618360,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548445622374,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548445624499,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "006a0008-0061-0084-005f-009000f6003e.png",
+        "timestamp": 1548445628725,
+        "duration": 4
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "d882cebabb48b739dfa9af75eab7d540",
+        "instanceId": 16436,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "http://newtours.demoaut.com/mercurysignon.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.",
+                "timestamp": 1548445781082,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548445781290,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548445781301,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548445785313,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548445787390,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "003900fb-003e-00de-0099-000400540020.png",
+        "timestamp": 1548445791620,
+        "duration": 1
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "482b6d05a4cc569f3cc714575910a475",
+        "instanceId": 12380,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "http://newtours.demoaut.com/mercurysignon.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.",
+                "timestamp": 1548446252272,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548446252478,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548446252491,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548446256507,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548446258608,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00c600d5-00a5-00a4-0090-0084003f000b.png",
+        "timestamp": 1548446262831,
+        "duration": 4
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "2b2ec898a0a08cd5372f2ba4ae182e56",
+        "instanceId": 11616,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "http://newtours.demoaut.com/mercurysignon.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.",
+                "timestamp": 1548446631699,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548446631925,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548446631945,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548446635962,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548446638078,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "004d000a-00d5-0085-0045-007300900030.png",
+        "timestamp": 1548446642307,
+        "duration": 2
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "ab8b6b04f3e4db0c5198a23237eaa3db",
+        "instanceId": 2124,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "http://newtours.demoaut.com/mercurysignon.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.",
+                "timestamp": 1548446791536,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548446791732,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548446791744,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548446795760,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548446797855,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "002300b5-00dc-001a-00d1-00a900a60014.png",
+        "timestamp": 1548446802069,
+        "duration": 2
+    },
+    {
+        "description": "Exatrct all values from an array|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "c7ad542dccbd0dd27e09474beca5a02b",
+        "instanceId": 17848,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "http://newtours.demoaut.com/mercurysignon.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.",
+                "timestamp": 1548447837462,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/black - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548447837742,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548447837750,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548447841757,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1548447843851,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00cd00ac-009b-0040-00f3-00980008007d.png",
+        "timestamp": 1548447848067,
+        "duration": 2
     }
 ];
 
