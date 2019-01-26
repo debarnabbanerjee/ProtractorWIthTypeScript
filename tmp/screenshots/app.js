@@ -2405,6 +2405,108 @@ app.controller('ScreenshotReportController', function ($scope, $http) {
         "screenShotFile": "004d007b-005a-00bf-00e6-00ec00f700e2.png",
         "timestamp": 1548499154632,
         "duration": 3100
+    },
+    {
+        "description": "Exatrct all values from an departure list|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "c425009f69d1a6b49d38f62206d8d0d2",
+        "instanceId": 10160,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [],
+        "screenShotFile": "003400b9-00a7-00f7-00ae-009c009d005a.png",
+        "timestamp": 1548502714683,
+        "duration": 3143
+    },
+    {
+        "description": "Exatrct all values from an departure list|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "4a2e64651d6030db1369e7aedfc48bdf",
+        "instanceId": 7136,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [],
+        "screenShotFile": "008a00e0-0055-00b9-0095-001700ed0072.png",
+        "timestamp": 1548502761839,
+        "duration": 3202
+    },
+    {
+        "description": "Exatrct all values from an departure list|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "dfe5cd57d117f310ab0ba16127423b33",
+        "instanceId": 13964,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [],
+        "screenShotFile": "004e001a-00d1-00b0-00c8-0070007900a8.png",
+        "timestamp": 1548502813217,
+        "duration": 3136
+    },
+    {
+        "description": "Exatrct all values from an departure list|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "dbca3d2f328883a880da644a54ae2520",
+        "instanceId": 8148,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [],
+        "screenShotFile": "00dd0003-0082-0098-00d7-009900a60053.png",
+        "timestamp": 1548502874031,
+        "duration": 3222
+    },
+    {
+        "description": "Exatrct all values from an departure list|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "7599d6d21758a91ee2944172f8967c49",
+        "instanceId": 18312,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [],
+        "screenShotFile": "00100079-0061-0041-003a-008b007400ee.png",
+        "timestamp": 1548502972804,
+        "duration": 3127
+    },
+    {
+        "description": "Exatrct all values from an departure list|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "1ce89e111cca821f0e15927350c22dcf",
+        "instanceId": 17812,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [],
+        "screenShotFile": "00710076-0045-0013-003e-00100052008d.png",
+        "timestamp": 1548503046666,
+        "duration": 3074
     }
 ];
 
