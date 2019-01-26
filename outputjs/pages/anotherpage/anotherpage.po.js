@@ -47,25 +47,26 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 Object.defineProperty(exports, "__esModule", { value: true });
 var protractor_1 = require("protractor");
 var pagebase_1 = require("../basepage/pagebase");
-var landingPage = /** @class */ (function (_super) {
-    __extends(landingPage, _super);
-    function landingPage() {
+var anotherPage = /** @class */ (function (_super) {
+    __extends(anotherPage, _super);
+    function anotherPage() {
         return _super !== null && _super.apply(this, arguments) || this;
     }
-    landingPage.prototype.getAllDEparturesFromDropList = function () {
+    anotherPage.prototype.getAllDepartureLocations = function () {
         return __awaiter(this, void 0, void 0, function () {
             return __generator(this, function (_a) {
                 switch (_a.label) {
-                    case 0: return [4 /*yield*/, protractor_1.element.all(protractor_1.by.xpath("//select[@name='fromPort']/*")).getText()
-                            .then(function (items) {
-                            // console.log(items);
-                            return items;
-                        })];
+                    case 0:
+                        protractor_1.browser.sleep(2000);
+                        return [4 /*yield*/, protractor_1.element.all(protractor_1.by.xpath("//select[@name='fromPort']/*")).getText().then(function (items) {
+                                // console.log(items);
+                                return items;
+                            })];
                     case 1: return [2 /*return*/, _a.sent()];
                 }
             });
         });
     };
-    return landingPage;
+    return anotherPage;
 }(pagebase_1.PageBase));
-exports.landingPage = landingPage;
+exports.anotherPage = anotherPage;
