@@ -2507,6 +2507,98 @@ app.controller('ScreenshotReportController', function ($scope, $http) {
         "screenShotFile": "00710076-0045-0013-003e-00100052008d.png",
         "timestamp": 1548503046666,
         "duration": 3074
+    },
+    {
+        "description": "Exatrct all values from an departure list|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "f4818ea194acbf227adb110249348844",
+        "instanceId": 13516,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [],
+        "screenShotFile": "00230066-00b2-007d-00b6-006e00d10083.png",
+        "timestamp": 1548582127220,
+        "duration": 3061
+    },
+    {
+        "description": "Exatrct all values from an departure list|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "eb726ff56cdd7be504f68a1cde9c9b62",
+        "instanceId": 5796,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [],
+        "screenShotFile": "005200fa-00d8-00c0-002a-006f00f80031.png",
+        "timestamp": 1548582832318,
+        "duration": 3105
+    },
+    {
+        "description": "Exatrct all values from an departure list|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "94ceb7d38244a2289c1a6d91752847a0",
+        "instanceId": 13200,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "00fa0046-0056-0015-002d-00ba002900cc.png",
+        "timestamp": 1548582873406,
+        "duration": 3036
+    },
+    {
+        "description": "Exatrct all values from an departure list|Testing ArrayFUnction",
+        "passed": false,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "9f64c673e9a3afe2a59fcb6e9d75d0b9",
+        "instanceId": 18416,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": [
+            "Expected true to be falsy."
+        ],
+        "trace": [
+            "Error: Failed expectation\n    at F:\\Automation\\ProtractorTypeScriptNew\\outputjs\\specs\\test.js:37:36\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)"
+        ],
+        "browserLogs": [],
+        "screenShotFile": "008f0031-0031-001f-0059-002300c600d9.png",
+        "timestamp": 1548582912732,
+        "duration": 3034
+    },
+    {
+        "description": "Exatrct all values from an departure list|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "909a6a96c1b6fcfa18cf9702f55dc323",
+        "instanceId": 15076,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "00fc0004-0066-0010-00de-007d007100f8.png",
+        "timestamp": 1548582958804,
+        "duration": 3001
     }
 ];
 

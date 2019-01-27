@@ -31,6 +31,10 @@ describe("Testing ArrayFUnction", function () {
                     console.log("*******************************************");
                     pagevalues.sort();
                     console.log(pagevalues);
+                    // compare the two arrays and assert it
+                    var a = droplistvalues.toString();
+                    var b = pagevalues.toString();
+                    expect(a == b).toBeTruthy();
                 }
                 catch (err) {
                     console.log(err);
