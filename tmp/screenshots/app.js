@@ -2599,6 +2599,60 @@ app.controller('ScreenshotReportController', function ($scope, $http) {
         "screenShotFile": "00fc0004-0066-0010-00de-007d007100f8.png",
         "timestamp": 1548582958804,
         "duration": 3001
+    },
+    {
+        "description": "Exatrct all values from an departure list|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "df6923a5ede31ab9bf078439b450e459",
+        "instanceId": 2772,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "008b0085-00aa-00c6-0034-005a00db002a.png",
+        "timestamp": 1548599370883,
+        "duration": 2626
+    },
+    {
+        "description": "Exatrct all values from an departure list|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "61777019687816aad45000276513a819",
+        "instanceId": 11152,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "001500d5-00d8-0011-00dd-00e1004500b6.png",
+        "timestamp": 1548599428933,
+        "duration": 2517
+    },
+    {
+        "description": "Exatrct all values from an departure list|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "96e5787e95f124c20e580bf7a18640d6",
+        "instanceId": 15544,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "00640044-009b-00d8-0009-00bb004600aa.png",
+        "timestamp": 1548599450815,
+        "duration": 2803
     }
 ];
 
