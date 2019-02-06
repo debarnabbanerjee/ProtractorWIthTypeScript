@@ -19,4 +19,16 @@ describe('Testing the angular application',() => {
     it('Testing the angular application UI Elements',() =>{
         console.log("Testing 1"); 
     })
+
+    it('Testing the angular application UI Elements',() =>{
+        console.log("Testing 2"); 
+    })
+
+    it('Testing the angular application UI Elements',() =>{
+        console.log("Testing 3"); 
+    })
+
+    it('Testing the angular application UI Elements',() =>{
+        console.log("Testing 4"); 
+    })
 })
