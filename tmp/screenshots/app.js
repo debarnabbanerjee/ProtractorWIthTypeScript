@@ -2653,6 +2653,1237 @@ app.controller('ScreenshotReportController', function ($scope, $http) {
         "screenShotFile": "00640044-009b-00d8-0009-00bb004600aa.png",
         "timestamp": 1548599450815,
         "duration": 2803
+    },
+    {
+        "description": "Validate Page Title|Testing the angular application",
+        "passed": false,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "8da66d5baaae7e47e6361fe2866a41fd",
+        "instanceId": 23236,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": [
+            "Failed: Angular could not be found on the page http://localhost:8808/. If this is not an Angular application, you may need to turn off waiting for Angular.\n                          Please see \n                          https://github.com/angular/protractor/blob/master/docs/timeouts.md#waiting-for-angular-on-page-load"
+        ],
+        "trace": [
+            "Error: Angular could not be found on the page http://localhost:8808/. If this is not an Angular application, you may need to turn off waiting for Angular.\n                          Please see \n                          https://github.com/angular/protractor/blob/master/docs/timeouts.md#waiting-for-angular-on-page-load\n    at executeAsyncScript_.then (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\built\\browser.js:720:27)\n    at ManagedPromise.invokeCallback_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)\nFrom: Task: Run beforeEach in control flow\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:94:19)\n    at attempt (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n    at QueueRunner.run (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n    at runNext (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:64:48\n    at ControlFlow.emit (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n    at ControlFlow.shutdown_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n    at shutdownTask_.MicroTask (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\angularApplicationTest.js:7:5)\n    at addSpecsToSuite (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n    at Env.describe (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n    at describe (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n    at Object.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\angularApplicationTest.js:5:1)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)"
+        ],
+        "browserLogs": [],
+        "screenShotFile": "0062001f-0002-0016-00f4-00d800290058.png",
+        "timestamp": 1549655764942,
+        "duration": 12674
+    },
+    {
+        "description": "Testing the angular application UI Elements|Testing the angular application",
+        "passed": false,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "8da66d5baaae7e47e6361fe2866a41fd",
+        "instanceId": 23236,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": [
+            "Failed: Angular could not be found on the page http://localhost:8808/. If this is not an Angular application, you may need to turn off waiting for Angular.\n                          Please see \n                          https://github.com/angular/protractor/blob/master/docs/timeouts.md#waiting-for-angular-on-page-load"
+        ],
+        "trace": [
+            "Error: Angular could not be found on the page http://localhost:8808/. If this is not an Angular application, you may need to turn off waiting for Angular.\n                          Please see \n                          https://github.com/angular/protractor/blob/master/docs/timeouts.md#waiting-for-angular-on-page-load\n    at executeAsyncScript_.then (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\built\\browser.js:720:27)\n    at ManagedPromise.invokeCallback_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)\nFrom: Task: Run beforeEach in control flow\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:94:19)\n    at attempt (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n    at QueueRunner.run (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n    at runNext (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:64:48\n    at ControlFlow.emit (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n    at ControlFlow.shutdown_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n    at shutdownTask_.MicroTask (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\angularApplicationTest.js:7:5)\n    at addSpecsToSuite (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n    at Env.describe (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n    at describe (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n    at Object.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\angularApplicationTest.js:5:1)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)"
+        ],
+        "browserLogs": [],
+        "screenShotFile": "002b00aa-0079-008c-00ba-005100260025.png",
+        "timestamp": 1549655778781,
+        "duration": 12375
+    },
+    {
+        "description": "Exatrct all values from an departure list|Testing ArrayFUnction",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "8da66d5baaae7e47e6361fe2866a41fd",
+        "instanceId": 23236,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "00350046-00b2-00d1-0007-003e00c2001e.png",
+        "timestamp": 1549655793259,
+        "duration": 5501
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": false,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "1411fd844dbaa6169db8d3b696cf77ff",
+        "instanceId": 28476,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": [
+            "Failed: Angular could not be found on the page https://www.personio.de/login/. If this is not an Angular application, you may need to turn off waiting for Angular.\n                          Please see \n                          https://github.com/angular/protractor/blob/master/docs/timeouts.md#waiting-for-angular-on-page-load",
+            "Failed: Error while waiting for Protractor to sync with the page: \"both angularJS testability and angular testability are undefined.  This could be either because this is a non-angular page or because your test involves client-side navigation, which can interfere with Protractor's bootstrapping.  See http://git.io/v4gXM for details\""
+        ],
+        "trace": [
+            "Error: Angular could not be found on the page https://www.personio.de/login/. If this is not an Angular application, you may need to turn off waiting for Angular.\n                          Please see \n                          https://github.com/angular/protractor/blob/master/docs/timeouts.md#waiting-for-angular-on-page-load\n    at executeAsyncScript_.then (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\built\\browser.js:720:27)\n    at ManagedPromise.invokeCallback_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)\nFrom: Task: Run beforeAll in control flow\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:94:19)\n    at attempt (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n    at QueueRunner.run (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n    at QueueRunner.execute (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4199:10)\n    at queueRunnerFactory (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:909:35)\n    at UserContext.fn (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:5325:13)\n    at attempt (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n    at QueueRunner.run (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n    at QueueRunner.execute (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4199:10)\n    at queueRunnerFactory (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:909:35)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:6:5)\n    at addSpecsToSuite (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n    at Env.describe (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n    at describe (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n    at Object.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:4:1)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)",
+            "Error: Error while waiting for Protractor to sync with the page: \"both angularJS testability and angular testability are undefined.  This could be either because this is a non-angular page or because your test involves client-side navigation, which can interfere with Protractor's bootstrapping.  See http://git.io/v4gXM for details\"\n    at runWaitForAngularScript.then (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\built\\browser.js:463:23)\n    at ManagedPromise.invokeCallback_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)Error\n    at ElementArrayFinder.applyAction_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\built\\element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as sendKeys] (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\built\\element.js:91:29)\n    at ElementFinder.(anonymous function).args [as sendKeys] (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\built\\element.js:831:22)\n    at LoginPage.enterCompanyName (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\pages\\login\\login-page.po.js:26:26)\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:10:19)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\nFrom: Task: Run it(\"Validate Login\") in control flow\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:94:19)\n    at attempt (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n    at QueueRunner.run (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n    at runNext (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:64:48\n    at ControlFlow.emit (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n    at ControlFlow.shutdown_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n    at shutdownTask_.MicroTask (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:9:5)\n    at addSpecsToSuite (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n    at Env.describe (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n    at describe (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n    at Object.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:4:1)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)"
+        ],
+        "browserLogs": [],
+        "screenShotFile": "00d600c1-0086-0064-0084-00c0002a00de.png",
+        "timestamp": 1549819144464,
+        "duration": 2020
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "ca4bda261b4a8f5ba3fbee782483b314",
+        "instanceId": 20040,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [],
+        "screenShotFile": "00310080-0077-002e-00c1-001000b700b9.png",
+        "timestamp": 1549819288950,
+        "duration": 6471
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "da766347c7abc46181c4be8bad38bd86",
+        "instanceId": 10980,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [],
+        "screenShotFile": "007b0011-002d-0008-00bb-00080048006b.png",
+        "timestamp": 1549819378078,
+        "duration": 5691
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": false,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "5c4864bc3e4a3c3b6adf2be82092ed4b",
+        "instanceId": 20752,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": [
+            "Failed: element not interactable\n  (Session info: headless chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64)"
+        ],
+        "trace": [
+            "WebDriverError: element not interactable\n  (Session info: headless chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64)\n    at Object.checkLegacyResponse (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\error.js:546:15)\n    at parseHttpResponse (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\http.js:509:13)\n    at doSend.then.response (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\http.js:441:30)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)\nFrom: Task: WebElement.sendKeys()\n    at thenableWebDriverProxy.schedule (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\webdriver.js:807:17)\n    at WebElement.schedule_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2010:25)\n    at WebElement.sendKeys (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2174:19)\n    at actionFn (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\built\\element.js:89:44)\n    at Array.map (<anonymous>)\n    at actionResults.getWebElements.then (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\built\\element.js:461:65)\n    at ManagedPromise.invokeCallback_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27)Error\n    at ElementArrayFinder.applyAction_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\built\\element.js:459:27)\n    at ElementArrayFinder.(anonymous function).args [as sendKeys] (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\built\\element.js:91:29)\n    at ElementFinder.(anonymous function).args [as sendKeys] (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\built\\element.js:831:22)\n    at LoginPage.enterCompanyName (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\pages\\login\\login-page.po.js:26:26)\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:12:19)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\nFrom: Task: Run it(\"Validate Login\") in control flow\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:94:19)\n    at attempt (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n    at QueueRunner.run (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n    at runNext (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:64:48\n    at ControlFlow.emit (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n    at ControlFlow.shutdown_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n    at shutdownTask_.MicroTask (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:11:5)\n    at addSpecsToSuite (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n    at Env.describe (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n    at describe (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n    at Object.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:5:1)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)"
+        ],
+        "browserLogs": [],
+        "screenShotFile": "00fa00e6-0065-0092-00e1-008c005e0036.png",
+        "timestamp": 1549819420418,
+        "duration": 8092
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "86bfdd804506af0816e4577042e166d5",
+        "instanceId": 8624,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [],
+        "screenShotFile": "0053007b-0071-0030-00bf-003400c000f7.png",
+        "timestamp": 1549819474457,
+        "duration": 5447
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "711353fd7b5cf936baa792d6d2900081",
+        "instanceId": 11836,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://automation-testing.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549820364084,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://automation-testing.personio.de/login/token-auth - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549820370893,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00f1004b-004a-0056-0090-00c2009c007e.png",
+        "timestamp": 1549820366079,
+        "duration": 5189
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "26fed600f9bef1564210b522f694e888",
+        "instanceId": 17228,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://automation-testing.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549820406539,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://automation-testing.personio.de/login/token-auth - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549820413191,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00aa0044-000c-0060-0017-008800880059.png",
+        "timestamp": 1549820408316,
+        "duration": 20225
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "9b9d49c606546e4964c1e0ea5f26eb02",
+        "instanceId": 14872,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549914894917,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/token-auth - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549914901391,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00c4005c-009b-00b2-00e0-0005006900c2.png",
+        "timestamp": 1549914896517,
+        "duration": 20232
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "c40b730665db1e2ca4463dcb6b066f95",
+        "instanceId": 15696,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549914991449,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549914997644,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1549915013554,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00fd001a-0076-00ef-0073-003900c9002c.png",
+        "timestamp": 1549914992840,
+        "duration": 20706
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "e39853b5846ca519edea984efc5111e2",
+        "instanceId": 8624,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549915025304,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549915031596,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1549915053589,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00ed00f8-006c-00b5-0094-003900e00022.png",
+        "timestamp": 1549915026768,
+        "duration": 20785
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": false,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "73070b126e6a35fb8cc83297eb996e99",
+        "instanceId": 6060,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": [
+            "Expected Function to be true.",
+            "Expected Function to be true.",
+            "Expected Function to be true."
+        ],
+        "trace": [
+            "Error: Failed expectation\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:16:56)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+            "Error: Failed expectation\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:17:54)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+            "Error: Failed expectation\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:18:57)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7"
+        ],
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549916169232,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549916175373,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1549916178614,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00a700a7-0038-0078-00ad-00f5008f001a.png",
+        "timestamp": 1549916170573,
+        "duration": 8034
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": false,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "77ccf8b3e2f6b208de4aa653cd05ad52",
+        "instanceId": 16036,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": [
+            "Expected Function to be true.",
+            "Expected Function to be true.",
+            "Expected Function to be true."
+        ],
+        "trace": [
+            "Error: Failed expectation\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:16:56)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+            "Error: Failed expectation\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:17:54)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+            "Error: Failed expectation\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:18:57)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7"
+        ],
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549916201081,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549916207163,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1549916209971,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "000c00dc-00ec-0025-008c-000f00ff0011.png",
+        "timestamp": 1549916202347,
+        "duration": 7619
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": false,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "3f2947cb15b7531dae23a0bdf052318f",
+        "instanceId": 13552,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": [
+            "Expected Function to be true.",
+            "Expected Function to be true.",
+            "Expected Function to be true.",
+            "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL."
+        ],
+        "trace": [
+            "Error: Failed expectation\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:16:56)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+            "Error: Failed expectation\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:17:54)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+            "Error: Failed expectation\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:18:57)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+            "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.\n    at Timeout._onTimeout (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4281:23)\n    at ontimeout (timers.js:482:11)\n    at tryOnTimeout (timers.js:317:5)\n    at Timer.listOnTimeout (timers.js:277:5)"
+        ],
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549916304595,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549916310663,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1549916343334,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "006400c4-00a8-008a-003d-005900f80055.png",
+        "timestamp": 1549916305928,
+        "duration": 31394
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": false,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "0795439d7ad625c30f8cc9b50a987f19",
+        "instanceId": 13676,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": [
+            "Expected Function to be true.",
+            "Expected Function to be true.",
+            "Expected Function to be true.",
+            "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL."
+        ],
+        "trace": [
+            "Error: Failed expectation\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:16:56)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+            "Error: Failed expectation\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:17:54)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+            "Error: Failed expectation\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\login-page.js:18:57)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+            "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.\n    at Timeout._onTimeout (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4281:23)\n    at ontimeout (timers.js:482:11)\n    at tryOnTimeout (timers.js:317:5)\n    at Timer.listOnTimeout (timers.js:277:5)"
+        ],
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549916382872,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549916389117,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1549916415020,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00cc0078-001c-00d3-00ca-00fe00c9000b.png",
+        "timestamp": 1549916384308,
+        "duration": 30705
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": false,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "1d9745762f19dbf17ce509a4b3a8556d",
+        "instanceId": 6600,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": [
+            "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL."
+        ],
+        "trace": [
+            "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.\n    at Timeout._onTimeout (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4281:23)\n    at ontimeout (timers.js:482:11)\n    at tryOnTimeout (timers.js:317:5)\n    at Timer.listOnTimeout (timers.js:277:5)"
+        ],
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549916453901,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549916466114,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1549916491999,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00ee005d-00cf-00ba-003e-00fc002f0043.png",
+        "timestamp": 1549916455314,
+        "duration": 36684
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "5bf7869bea35c1b234c8a7372c4cda54",
+        "instanceId": 15284,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549916525503,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549916531551,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1549916539390,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00460052-0098-0041-00bb-0025004e0096.png",
+        "timestamp": 1549916526823,
+        "duration": 12568
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "1cd0044b270549a828e519391495e6e0",
+        "instanceId": 13400,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549916584690,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549916590855,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1549916596663,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00da00b5-00ca-0035-003e-0022009300a8.png",
+        "timestamp": 1549916586039,
+        "duration": 10626
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "615b2944b9c71a23514684c7db8622f1",
+        "instanceId": 10336,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549917128864,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549917135058,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1549917140988,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "000b0086-00f2-00aa-009e-0058001200b5.png",
+        "timestamp": 1549917130273,
+        "duration": 10709
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "163716642c70d13b8cf4d320e7d42fab",
+        "instanceId": 11220,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549917261962,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549917268131,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1549917273994,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "000200f7-006c-007b-00ae-007b00bf007e.png",
+        "timestamp": 1549917263373,
+        "duration": 10619
+    },
+    {
+        "description": "Validate Proper Display of Payroll Page UI Elements|Verify Payroll Tab",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "163716642c70d13b8cf4d320e7d42fab",
+        "instanceId": 11220,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549917274156,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1549917279242,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1549917284813,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00ea006f-0035-0061-0071-00e200b80059.png",
+        "timestamp": 1549917284812,
+        "duration": 1
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "9b8096c012603d4ad5870d6219fae7b9",
+        "instanceId": 11992,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550003207465,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550003213735,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://cdn3.personio.de/build/client/js/app.88db142cda4cc7dd880a.js 0:854661 \"Your Appcues account has expired, but you have not uninstalled Appcues. Please contact us at support@appcues.com.\"",
+                "timestamp": 1550003214340,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1550003225482,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550003225643,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "006d0090-00da-00d3-00d3-00e200920038.png",
+        "timestamp": 1550003208910,
+        "duration": 10561
+    },
+    {
+        "description": "Validate Proper Display of Payroll Page UI Elements|Verify Payroll Tab",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "9b8096c012603d4ad5870d6219fae7b9",
+        "instanceId": 11992,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550003230761,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://cdn3.personio.de/build/client/js/app.88db142cda4cc7dd880a.js 0:854661 \"Your Appcues account has expired, but you have not uninstalled Appcues. Please contact us at support@appcues.com.\"",
+                "timestamp": 1550003231139,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1550003236219,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/payroll-full-width - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550003236603,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://cdn3.personio.de/build/client/js/app.88db142cda4cc7dd880a.js 0:854661 \"Your Appcues account has expired, but you have not uninstalled Appcues. Please contact us at support@appcues.com.\"",
+                "timestamp": 1550003236900,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/payroll-full-width - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1550003238992,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "000f00bd-0092-0069-00c9-006100e40095.png",
+        "timestamp": 1550003236209,
+        "duration": 2777
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "e9b6a36872bb1832b7d640b6468eddbe",
+        "instanceId": 3788,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550004227088,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550004230184,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://cdn3.personio.de/build/client/js/app.88db142cda4cc7dd880a.js 0:854661 \"Your Appcues account has expired, but you have not uninstalled Appcues. Please contact us at support@appcues.com.\"",
+                "timestamp": 1550004230737,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1550004236538,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "007b0057-0020-003b-0043-0038008300e4.png",
+        "timestamp": 1550004229056,
+        "duration": 7473
+    },
+    {
+        "description": "Validate Proper Display of Payroll Page UI Elements|Verify Payroll Tab",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "e9b6a36872bb1832b7d640b6468eddbe",
+        "instanceId": 3788,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550004236681,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550004238778,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://cdn3.personio.de/build/client/js/app.88db142cda4cc7dd880a.js 0:854661 \"Your Appcues account has expired, but you have not uninstalled Appcues. Please contact us at support@appcues.com.\"",
+                "timestamp": 1550004239120,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1550004241193,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/payroll-full-width - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550004241494,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://cdn3.personio.de/build/client/js/app.88db142cda4cc7dd880a.js 0:854661 \"Your Appcues account has expired, but you have not uninstalled Appcues. Please contact us at support@appcues.com.\"",
+                "timestamp": 1550004241768,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/payroll-full-width - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1550004244413,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00c1005e-00bc-007e-00b9-00ef00cf003c.png",
+        "timestamp": 1550004241184,
+        "duration": 3223
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "c1e41ee94406cf374454d4294dc64dc0",
+        "instanceId": 11580,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550004580083,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550004582664,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://cdn3.personio.de/build/client/js/app.88db142cda4cc7dd880a.js 0:854661 \"Your Appcues account has expired, but you have not uninstalled Appcues. Please contact us at support@appcues.com.\"",
+                "timestamp": 1550004583237,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1550004588677,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550004588849,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00c800ed-0031-0078-000c-006b001e0010.png",
+        "timestamp": 1550004581507,
+        "duration": 7173
+    },
+    {
+        "description": "Validate Proper Display of Payroll Page UI Elements|Verify Payroll Tab",
+        "passed": false,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "c1e41ee94406cf374454d4294dc64dc0",
+        "instanceId": 11580,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": [
+            "Failed: Invalid locator"
+        ],
+        "trace": [
+            "TypeError: Invalid locator\n    at Object.check [as checkedLocator] (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\by.js:275:9)\n    at WebElement.findElements (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2072:18)\n    at parentWebElements.map (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\built\\element.js:170:46)\n    at Array.map (<anonymous>)\n    at getWebElements.then (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\built\\element.js:167:65)\n    at ManagedPromise.invokeCallback_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\nFrom: Task: Run it(\"Validate Proper Display of Payroll Page UI Elements\") in control flow\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:94:19)\n    at attempt (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n    at QueueRunner.run (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n    at runNext (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:64:48\n    at ControlFlow.emit (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n    at ControlFlow.shutdown_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n    at shutdownTask_.MicroTask (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\payroll-tests.js:22:5)\n    at addSpecsToSuite (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n    at Env.describe (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n    at describe (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n    at Object.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\payroll-tests.js:9:1)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)"
+        ],
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550004590979,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://cdn3.personio.de/build/client/js/app.88db142cda4cc7dd880a.js 0:854661 \"Your Appcues account has expired, but you have not uninstalled Appcues. Please contact us at support@appcues.com.\"",
+                "timestamp": 1550004591371,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1550004593453,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/payroll-full-width - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550004593739,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://cdn3.personio.de/build/client/js/app.88db142cda4cc7dd880a.js 0:854661 \"Your Appcues account has expired, but you have not uninstalled Appcues. Please contact us at support@appcues.com.\"",
+                "timestamp": 1550004594054,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/payroll-full-width - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1550004596175,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00ec0087-000a-0075-0070-00a5001700a7.png",
+        "timestamp": 1550004593457,
+        "duration": 2859
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "e846f46b69d003a51ab47328df95e904",
+        "instanceId": 6320,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550004931846,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550004934461,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://cdn3.personio.de/build/client/js/app.88db142cda4cc7dd880a.js 0:854661 \"Your Appcues account has expired, but you have not uninstalled Appcues. Please contact us at support@appcues.com.\"",
+                "timestamp": 1550004935136,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1550004940223,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00d000d2-00e2-0036-00ae-009b0036007d.png",
+        "timestamp": 1550004933298,
+        "duration": 6916
+    },
+    {
+        "description": "Validate Proper Display of Payroll Page UI Elements|Verify Payroll Tab",
+        "passed": false,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "e846f46b69d003a51ab47328df95e904",
+        "instanceId": 6320,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": [
+            "Failed: Invalid locator"
+        ],
+        "trace": [
+            "TypeError: Invalid locator\n    at Object.check [as checkedLocator] (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\by.js:275:9)\n    at thenableWebDriverProxy.findElements (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\webdriver.js:1041:18)\n    at Function.E2EUtil.validatNumberOfElementsPresent (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\pages\\e2e.utils.js:20:37)\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\payroll-tests.js:36:29)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\nFrom: Task: Run it(\"Validate Proper Display of Payroll Page UI Elements\") in control flow\n    at UserContext.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:94:19)\n    at attempt (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n    at QueueRunner.run (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n    at runNext (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n    at F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\jasminewd2\\index.js:64:48\n    at ControlFlow.emit (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n    at ControlFlow.shutdown_ (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n    at shutdownTask_.MicroTask (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\payroll-tests.js:22:5)\n    at addSpecsToSuite (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n    at Env.describe (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n    at describe (F:\\Automation\\ProtractorWIthTypeScript\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n    at Object.<anonymous> (F:\\Automation\\ProtractorWIthTypeScript\\outputjs\\specs\\payroll-tests.js:9:1)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)"
+        ],
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550004940354,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550004942304,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://cdn3.personio.de/build/client/js/app.88db142cda4cc7dd880a.js 0:854661 \"Your Appcues account has expired, but you have not uninstalled Appcues. Please contact us at support@appcues.com.\"",
+                "timestamp": 1550004942676,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1550004944766,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00e300ed-0049-00c5-00b8-007c00060012.png",
+        "timestamp": 1550004944750,
+        "duration": 0
+    },
+    {
+        "description": "Validate Login|Verify Login Test Case",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "f959489aaa3092674ef3bee178d59d54",
+        "instanceId": 1048,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550005085246,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550005087883,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://cdn3.personio.de/build/client/js/app.88db142cda4cc7dd880a.js 0:854661 \"Your Appcues account has expired, but you have not uninstalled Appcues. Please contact us at support@appcues.com.\"",
+                "timestamp": 1550005088404,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1550005093637,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "00ed0020-005f-007b-0003-00c4004b00b3.png",
+        "timestamp": 1550005086652,
+        "duration": 6978
+    },
+    {
+        "description": "Validate Proper Display of Payroll Page UI Elements|Verify Payroll Tab",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "f959489aaa3092674ef3bee178d59d54",
+        "instanceId": 1048,
+        "browser": {
+            "name": "chrome",
+            "version": "71.0.3578.98"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/login/index - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550005093810,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550005096184,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://cdn3.personio.de/build/client/js/app.88db142cda4cc7dd880a.js 0:854661 \"Your Appcues account has expired, but you have not uninstalled Appcues. Please contact us at support@appcues.com.\"",
+                "timestamp": 1550005096600,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/ - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1550005098688,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/payroll-full-width - Error parsing header X-XSS-Protection: 1; mode=block, 1; mode=block: expected semicolon at character position 13. The default protections will be applied.",
+                "timestamp": 1550005099013,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://cdn3.personio.de/build/client/js/app.88db142cda4cc7dd880a.js 0:854661 \"Your Appcues account has expired, but you have not uninstalled Appcues. Please contact us at support@appcues.com.\"",
+                "timestamp": 1550005099369,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://candidate-at-personio-debarnab-banerjee.personio.de/payroll-full-width/verification?year=2019&month=02&tab=personal - Access to resource at 'https://cdn3.personio.de/manifest.json' from origin 'https://candidate-at-personio-debarnab-banerjee.personio.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+                "timestamp": 1550005101477,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "003200db-00f4-0087-00a1-002a00d400b1.png",
+        "timestamp": 1550005098679,
+        "duration": 2791
     }
 ];
 
